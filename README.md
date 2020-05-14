@@ -38,8 +38,8 @@ Design and implement a REST API that provides the following:
 
 ### Delivery
 
-- Fork this repository and submit your solution there. Please don't create any PRs in the original repository.
-- In your repo you can create as many branches and PRs as you need. We would like to see how you develop iteratively.
+- Create a repository in your GitHub account and submit your solution there.
+- You can create as many branches and PRs as you need. We would like to see how you develop iteratively.
 - Create your own README file. Briefly describe your solution, how to run it and add any extra comments you want.
 - Everything must be provided in English.
 - Once you are finished, please ping your recruiter and provide your repository url. We will start the review asap.
