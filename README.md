@@ -30,8 +30,8 @@ Design and implement a REST API that provides the following:
 ### Technical details
 
 - Code should be written in PHP.
-- Symfony is a plus, although you can choose any framework of your choice. 
-- Frameworks with lots of "magic" like API Platform must be avoided. We want to see your own code ;)
+- We would like you to use Symfony. 
+- Extra frameworks with lots of "magic" like API Platform must be avoided. We want to see your own code ;)
 - The endpoint returns a JSON response. 
 - You can use any tool you need to run your implementation (Docker for instance).
 - Swagger (OpenAPI) documentation is needed.
@@ -48,6 +48,7 @@ Design and implement a REST API that provides the following:
 
 - Your solution works 100% following your instructions.
 - Comprehensive tests are included and run successfully.
-- Clean code, clear naming and proper code style is implemented. Best practices are followed.
+- Clean code, clear naming and proper code style is implemented. 
+- Best practices and design patterns are considered.
 - Your directions are clear, understandable and reason the chosen solution.
 - You have thought about edge cases and error handling.
