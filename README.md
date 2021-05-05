@@ -1,4 +1,4 @@
-# BEE Team - Backend Engineer Challenge
+# Foundations Team - Backend Engineer Challenge
 
 Welcome to the backend engineer challenge! We would like to thank you for taking the time to work on it. This is your chance to prove that your technical skills are as good as we expect at Oetker Digital (or even better!) ;)
 
