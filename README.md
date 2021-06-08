@@ -33,7 +33,7 @@ Design and implement a REST API that provides the following:
 - We would like you to use Symfony. 
 - Extra frameworks with lots of "magic" like API Platform must be avoided. We want to see your own code ;)
 - The endpoint returns a JSON response. 
-- You can use any tool you need to run your implementation (Docker for instance).
+- You should use Docker to run your implementation.
 - Swagger (OpenAPI) documentation is needed.
 
 ### Delivery
